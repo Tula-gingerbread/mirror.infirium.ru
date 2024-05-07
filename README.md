@@ -2,7 +2,7 @@
 **Адрес:** mirror.infirium.ru <br>
 **Расположение:** Россия, Екатеринбург <br>
 **Пропускная способность:** 300мбит/сек <br>
-**Протоколы:** [HTTPS](https://mirror.infirium.ru/), [HTTP](http://mirror.infirium.ru/), [Rsync](rsync://mirror.legalloli.net/public),  SFTP (в процессе) <br>
+**Протоколы:** [HTTPS](https://mirror.infirium.ru/), [HTTP](http://mirror.infirium.ru/), Rsync*,  SFTP (в процессе) <br>
 **Веб сервер:** [Nginx](https://nginx.org/) <br>
 **Частота синхронизации:** один раз в 1-1.5 часа <br>
 **Отзеркалены:** [Arch](https://archlinux.org/), [Artix](https://artixlinux.org/), [Proxmox VE](https://www.proxmox.com/en/proxmox-virtual-environment/); Отзеркаливание планируется: Termux aarch64 pacman <br>
@@ -14,3 +14,5 @@
 - **Лолечка:** железо (hardware)
 - **Tula-gingerbread:** администрирование (backend)
 - **Konsirovar:** frontend
+
+* - rsync://mirror.infirium.ru/
