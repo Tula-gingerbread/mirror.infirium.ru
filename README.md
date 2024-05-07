@@ -1,5 +1,5 @@
 # Крутое зеркало
-**Адрес:** [mirror.infirium.ru] <br>
+**Адрес:** mirror.infirium.ru <br>
 **Расположение:** Россия, Екатеринбург <br>
 **Пропускная способность:** 300мбит/сек <br>
 **Протоколы:** [HTTPS](https://mirror.infirium.ru/), [HTTP](http://mirror.infirium.ru/), [Rsync](rsync://mirror.legalloli.net/public),  SFTP (в процессе) <br>
