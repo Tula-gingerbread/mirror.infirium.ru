@@ -15,4 +15,4 @@
 - **Tula-gingerbread:** администрирование (backend)
 - **Konsirovar:** frontend
 
-* - rsync://mirror.infirium.ru/
+\* - rsync://mirror.infirium.ru/
